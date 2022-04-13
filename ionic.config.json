@@ -1,0 +1,7 @@
+{
+  "name": "spike",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
